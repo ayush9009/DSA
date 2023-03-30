@@ -284,6 +284,6 @@ int main(){
     int t;
     cin>>t;
     while(t--){
-        help_yourself();
+        help_yourself()
     }
 }
