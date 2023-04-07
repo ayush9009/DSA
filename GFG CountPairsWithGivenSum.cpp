@@ -6,4 +6,4 @@ unordered_map<int, int> m;
         }
         m[arr[i]]++;
     }
-    return count;
+    return count
