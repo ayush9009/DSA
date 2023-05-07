@@ -8,6 +8,6 @@ public:
             ans +=s[i];
         }
         ans = ans/(n-2);
-        return ans
+        return ans;
     }
 };
