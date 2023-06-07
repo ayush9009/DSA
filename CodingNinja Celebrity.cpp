@@ -5,7 +5,7 @@
 
 	bool knows(int A, int B)
 	Function 'knows(A, B)' will returns "true" if the person having
-	id 'A' know the person having id 'B' in the party, "false" otherwise.
+	id 'A' know the person having id 'B' in the party, "false" otherwise
 */
 
 int findCelebrity(int n) {
