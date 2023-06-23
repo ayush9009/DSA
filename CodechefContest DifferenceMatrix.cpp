@@ -23,7 +23,7 @@ void merge(int a[], int beg, int mid, int end)
     {    
         if(LeftArray[i] <= RightArray[j])    
         {    
-            a[k] = LeftArray[i];    
+            a[k] = LeftArray[i]
             i++;    
         }    
         else    
