@@ -41,17 +41,17 @@ public:
 
         //first and last column
         //to first and last column to fix hi h i.e j=0,j=n-1 bas row change hori i.e i
-        for(int i=0;i<m;i++){
+        for(int i=0;i<n;i++){
             if(board[i][0]=='O')dfs(i,0,board,n,m);//row kai respect m means row chnagehori
-            if(board[i][n-1]=='O')dfs(i,n-1,board,n,m);//m-1 kuki row kai respectmbt hori
+            if(board[i][m-1]=='O')dfs(i,m-1,board,n,m);//m-1 kuki row kai respectmbt hori
         }
         //first and last row
         //to first and last row to fix hi h i.e i=0,i=m-1 bas column change hori i.e j
-        for(int j=0;j<n;j++){
+        for(int j=0;j<m;j++){
             if(board[0][j]=='O')dfs(0,j,board,n,m);
-            if(board[m-1][j]=='O')dfs(m-1,j,board,n,m);  //m-1 kuki column kai respectmbt hori
+            if(board[n-1][j]=='O')dfs(n-1,j,board,n,m);  //m-1 kuki column kai respectmbt hori
         }
-        for(int i=0;i<m;i++){
+        for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(board[i][j]=='O')board[i][j]='X';
                 if(board[i][j]=='#')board[i][j]='O';
