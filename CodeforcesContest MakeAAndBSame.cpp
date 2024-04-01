@@ -8,7 +8,7 @@ void merge(int a[], int beg, int mid, int end)
 {    
     int i, j, k; 
     int n1 = mid - beg + 1;     
-    int n2 = end - mid;    j
+    int n2 = end - mid;    
       
     int LeftArray[n1], RightArray[n2]; //temporary arrays  
       
