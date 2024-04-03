@@ -2,7 +2,7 @@
 using namespace std
 
 void singh(){
-    return
+    return;
 }
 void merge(int a[], int beg, int mid, int end)    
 {    
