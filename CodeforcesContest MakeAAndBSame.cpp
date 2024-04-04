@@ -4,7 +4,7 @@ using namespace std
 void singh(){
     return;
 }
-void merge(int a[], int beg, int mid, int end)    
+void merge(int a[], int beg, int mid, int end)   
 {    
     int i, j, k;
     int n1 = mid - beg + 1;     
