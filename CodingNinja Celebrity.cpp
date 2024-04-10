@@ -11,7 +11,7 @@
 int findCelebrity(int n) {
  	// Write your code here.
 	 vector<int>indegree(n);
-	 vector<int>outdegree(n)
+	 vector<int>outdegree(n);
 	 for(int i=0;i<n;i++){
 		 for(int j=0;j<n;j++){
                    if (knows(i, j)) {
