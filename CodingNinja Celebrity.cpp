@@ -9,7 +9,7 @@
 */
 
 int findCelebrity(int n) {
- 	// Write your code here.
+ 	// Write your code here
 	 vector<int>indegree(n);
 	 vector<int>outdegree(n);
 	 for(int i=0;i<n;i++){
