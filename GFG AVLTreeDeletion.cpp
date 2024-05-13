@@ -10,7 +10,7 @@ int getBalance(Node* node) {
     return getHeight(node->left) - getHeight(node->right)
 }
 Node* rightRotate(Node* y) {
-    Node* x = y->left;
+    Node* x = y->left
     Node* T2 = x->right;
 
     x->right = y;
