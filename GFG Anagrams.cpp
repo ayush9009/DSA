@@ -4,7 +4,7 @@ class Solution
     //Function is to check whether two strings are anagram of each other or not.
     bool isAnagram(string a, string b){
     
-        // Your code he
+        // Your code here
         int n=a.size()
         int m=b.size()
         if(n>m || n<m)return false
