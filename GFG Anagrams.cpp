@@ -5,7 +5,7 @@ class Solution
     bool isAnagram(string a, string b){
     
         // Your code here
-        int n=a.size()
+        int n=a.size();
         int m=b.size()
         if(n>m || n<m)return false
         unordered_map<char,int>mp1,mp2;
