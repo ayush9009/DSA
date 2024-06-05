@@ -14,7 +14,7 @@ Node* rightRotate(Node* y) {
     Node* T2 = x->right
 
     x->right = y;
-    y->left = T2;
+    y->left = T2
 
     y->height = 1 + max(getHeight(y->left), getHeight(y->right));
     x->height = 1 + max(getHeight(x->left), getHeight(x->right));
