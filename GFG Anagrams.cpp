@@ -10,7 +10,7 @@ class Solution
         if(n>m || n<m)return false
         unordered_map<char,int>mp1,mp2;
         for(auto it:a)mp1[it]++;
-        for(auto it:b)mp2[it]++;
+        for(auto it:b)mp2[it]++
         for(auto it:b){
             int x=mp2[it];
             if(mp1.find(it)==mp1.end())return false;
