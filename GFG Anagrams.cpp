@@ -6,7 +6,7 @@ class Solution
     
         // Your code here
         int n=a.size()
-        int m=b.size();
+        int m=b.size()
         if(n>m || n<m)return false
         unordered_map<char,int>mp1,mp2;
         for(auto it:a)mp1[it]++;
