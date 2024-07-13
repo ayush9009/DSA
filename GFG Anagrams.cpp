@@ -1,6 +1,6 @@
 class Solution
 {
-    public:
+    public
     //Function is to check whether two strings are anagram of each other or not.
     bool isAnagram(string a, string b){
     
