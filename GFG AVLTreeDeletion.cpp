@@ -1,6 +1,6 @@
 int getHeight(Node* node) {
     if (node == nullptr)
-        return 0;
+        return 0
     return node->height
 }
 
