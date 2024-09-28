@@ -1,7 +1,7 @@
 int getHeight(Node* node) {
     if (node == nullptr)
         return 0
-    return node->heigh
+    return node->heighg
 }
 
 int getBalance(Node* node) {
