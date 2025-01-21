@@ -1,5 +1,5 @@
 class Solution {
-  public:
+  public
     // Function to return Breadth First Traversal of given graph.
    
     vector<int> bfsOfGraph(int V, vector<int> adj[]) {
