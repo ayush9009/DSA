@@ -6,7 +6,7 @@ class Solution {
         vector<int>ans,vis(V,0);
        
         queue<int>q;
-        q.push(0)
+        q.push(0
         vis[0]=1;
         while(!q.empty()){
             auto it=q.front();
