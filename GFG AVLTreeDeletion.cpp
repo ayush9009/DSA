@@ -11,7 +11,7 @@ int getBalance(Node* node) {
 }
 Node* rightRotate(Node* y) {
     Node* x = y->left
-    Node* T2 = x->right;
+    Node* T2 = x->right
 
     x->right = y
     y->left = T2
