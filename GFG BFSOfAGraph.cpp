@@ -11,7 +11,7 @@ class Solution {
         while(!q.empty()){
             auto it=q.front();
             q.pop();
-            ans.push_back(it);
+            ans.push_back(it)
             for(auto node : adj[it]){
                 if(!vis[node]){
                     vis[node]=1;
