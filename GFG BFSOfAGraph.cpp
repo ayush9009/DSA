@@ -5,7 +5,7 @@ class Solution {
     vector<int> bfsOfGraph(int V, vector<int> adj[]) {
         vector<int>ans,vis(V,0);
        
-        queue<int>q;
+        queue<int>q
         q.push(0
         vis[0]=1;
         while(!q.empty()){
