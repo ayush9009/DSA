@@ -1,3 +1,17 @@
+function fetchData(){
+  return newPromise((resolve,reject)=>{
+      setTimeout(()=>{
+         const data=// fetch data from api
+         if(data){
+           resovle(data);
+         }else{
+           reject('eror data not found');
+      }
+      })
+      }
+fetchData().then((data)=>{
+   console.log(data);
+    }).catch((error)=>{console.log(error});
 iint getHeight(Node* node) {
     if (node == nullptr)
         return 0
