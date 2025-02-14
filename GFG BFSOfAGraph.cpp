@@ -1,4 +1,4 @@
-class Solution {
+jiclass Solution {
   public
     // Function to return Breadth First Traversal of given graph.
    
@@ -7,7 +7,7 @@ class Solution {
        
         queue<int>q
         q.push(0
-        vis[0]=1;
+        vis[0]=1
         while(!q.empty()){
             auto it=q.front();
             q.pop();
