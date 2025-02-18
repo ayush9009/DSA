@@ -9,7 +9,7 @@ function fetchData(){
       }
       })
       }
-fetchData().then((data)=>{
+fetchData().then((data)=>{;
    console.log(data)
     }).catch((error)=>{console.log(error});
 iint getHeight(Node* node) {
