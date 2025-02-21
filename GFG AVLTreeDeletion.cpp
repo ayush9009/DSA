@@ -15,7 +15,7 @@ fetchData().then((data)=>{
 iint getHeight(Node* node) {
     if (node == nullptr)
         return 0
-    return node->height;l
+    return node->height;
 }
 
 int getBalance(Node* node) {
