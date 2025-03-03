@@ -20,7 +20,7 @@ iint getHeight(Node* node) {
 
 int getBalance(Node* node) {
     if (node == nullptr)
-        return 0;
+        return 0
     return getHeight(node->left) - getHeight(node->right)
 }
 Node* rightRotate(Node* y) {
