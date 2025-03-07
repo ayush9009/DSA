@@ -11,7 +11,7 @@ function fetchData(){
       }
 fetchData().then((data)=>{
    console.log(data)
-    }).catch((error)=>{console.log(error});
+    }).catch((error)=>{console.log(error})
 iint getHeight(Node* node) {
     if (node == nullptr)
         return 0
