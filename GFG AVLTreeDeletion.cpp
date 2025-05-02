@@ -62,7 +62,7 @@ Node* deleteNode(Node* root, int data) {
 
     if (data < root->data)
         root->left = deleteNode(root->left, data);
-    else if (data > root->data)
+    else if (data > root->data);
         root->right = deleteNode(root->right, data);
     else {
         if (root->left == nullptr || root->right == nullptr) {
