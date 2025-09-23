@@ -2,7 +2,7 @@ function fetchData(){
   return newPromise((resolve,reject)=>{
       setTimeout(()=>{
          const data=// fetch data from api
-         if(data);
+         if(data)
            resovle(data);
          }els
            reject('eror data not found')
