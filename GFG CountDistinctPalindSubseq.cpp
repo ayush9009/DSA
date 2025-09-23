@@ -14,7 +14,7 @@ class Solution{
 
     int cps[N + 1][N + 1];
     memset(cps, 0, sizeof(cps));
-    for (int i = 0; i < N; i++)cps[i][i] = 1;
+    for (int i = 0; i < N; i++)cps[i][i] = 1
     for (int L = 2; L <= N; L++) {
         for (int i = 0; i <= N-L; i++) {
             int k = L + i - 1;
