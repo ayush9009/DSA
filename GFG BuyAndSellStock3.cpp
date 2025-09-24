@@ -14,7 +14,7 @@ int helper(vector<int>&prices,vector<vector<vector<int>>>dp,int n){
     return dp[0][1][2];
 }
 int maxProfit(vector<int>&prices){
-    // dp[ind][buy][cap]
+    // dp[ind][buy][cap];
     // cap maximum values:0,1,2
     // buy means 2 values ,either u buy or u sell
     // if buy means -prices[i]+dp[ind+1][0][cap] 0 means ab aap sell kar sako na ki buy and same for sell
