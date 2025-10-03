@@ -4,7 +4,7 @@ function fetchData(){
          const data=// fetch data from api
          if(data)
            resovle(data)
-         }els
+         }else
            reject('eror data not found')
       }
       })
