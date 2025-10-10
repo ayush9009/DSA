@@ -6,7 +6,7 @@ function fetchData(){
            resovle(data);
          }else
            reject('eror data not found')
-      }
+      
       })
       }
 fetchData().then((data)=>{
