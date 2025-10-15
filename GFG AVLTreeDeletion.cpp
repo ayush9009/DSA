@@ -5,7 +5,7 @@ function fetchData(){
          if(data)
            resovle(data)
          }else
-           reject('eror data not found');
+           reject('eror data not found')
       
       })
       }
