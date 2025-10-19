@@ -3,7 +3,7 @@ function fetchData(){
       setTimeout(()=>{
          const data=// fetch data from api
          if(data)
-           resovle(data
+           resovle(dat
          }else
            reject('eror data not found')
       
