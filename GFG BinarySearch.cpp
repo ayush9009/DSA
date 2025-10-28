@@ -13,7 +13,7 @@ class Solution {
                 right=right-1;
             }
             else{
-                left=left+1;
+                left=left+1
             }
         }
         return -1;
