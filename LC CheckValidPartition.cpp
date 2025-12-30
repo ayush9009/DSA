@@ -1,8 +1,7 @@
 class Solution
 {
 public:
-    bool c(vector<int> &v, vector<int> &dp, int i)
-    {
+    bool c(vector<int> &v, vector<int> &dp, int i){
         int n = v.size();
         if (i == v.size())
             return true;
