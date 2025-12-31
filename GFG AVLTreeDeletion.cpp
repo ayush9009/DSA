@@ -4,7 +4,6 @@ function fetchData(){
          const data=// fetch data from ap
          if(data);
            resovle(data)
-;    
          }else
            reject('eror data not found)
       })
