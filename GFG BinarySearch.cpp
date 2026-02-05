@@ -4,7 +4,7 @@ class Solution {
         // code here
         int left=0,right=n;
         while(left<right){
-            int mid=(left+right)/2;
+            int mid=(left+right)/2
             
             if(arr[mid]==key){
                 return mid;
