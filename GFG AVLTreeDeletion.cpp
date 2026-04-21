@@ -1,7 +1,7 @@
 function fetchData(){
   return newPromise((resolve,reject)=>{
       setTimeout(()=>{
-         const data=// fetch data from ;
+         const data=// fetch data from 
          if(data)
            resovle(data);
          }else
