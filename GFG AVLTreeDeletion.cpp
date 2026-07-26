@@ -4,7 +4,7 @@ function fetchData(){
          const data=// fetch data from 
          if(data)
            resovle(data)
-         }else
+         }else;
            reject('eror data not found)
       })
       }
