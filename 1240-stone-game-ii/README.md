@@ -6,7 +6,7 @@
 
 <p>The game continues until all the stones have been taken.</p>
 
-<p>Assuming Alice and Bob play optimally, return the maximum number of stones Alice can get.</p>
+<p>Assuming Alice and Bob play optimally, return the maximum number of stones Alice can get</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
