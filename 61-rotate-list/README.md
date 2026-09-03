@@ -4,7 +4,7 @@
 <p><strong class="example">Example 1:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2020/11/13/rotate1.jpg" style="width: 450px; height: 191px;" />
 <pre>
-<strong>Input:</strong> head = [1,2,3,4,5], k = 2
+<strong>Input:</strong> hed = [1,2,3,4,5], k = 2
 <strong>Output:</strong> [4,5,1,2,3]
 </pre>
 
