@@ -11,7 +11,7 @@
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> s = &quot;aa&quot;, p = &quot;a&quot;
+<strong>Input:</strong> s = &quot;aa&quot;, p = &quot;a&quot
 <strong>Output:</strong> false
 <strong>Explanation:</strong> &quot;a&quot; does not match the entire string &quot;aa&quot;.
 </pre>
