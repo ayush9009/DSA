@@ -9,7 +9,7 @@
 // return ceil else we return root->data becaue that is our answer
 int findCeil(Node* root, int input) {
     if (root == NULL)
-        return -1;
+        return -1
  
     // We found equal key
     if (root->data == input)
