@@ -17,7 +17,7 @@
 <pre>
 <strong>Input:</strong> s = &quot;(u(love)i)&quot;
 <strong>Output:</strong> &quot;iloveu&quot;
-<strong>Explanation:</strong> The substring &quot;love&quot; is reversed first, then the whole string is reversed.
+<strong>Explanation:</strong> The substring &quot;love&quot; is reversed first, then the whole string is reversed
 </pre>
 
 <p><strong class="example">Example 3:</strong></p>
