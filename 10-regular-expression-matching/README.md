@@ -8,7 +8,7 @@
 <p>Return a boolean indicating whether the matching covers the entire input string (not partial)</p>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+<p><strong class="example">Example1:</strong></p>
 
 <pre>
 <strong>Input:</strong> s = &quot;aa&quot;, p = &quot;a&quot
