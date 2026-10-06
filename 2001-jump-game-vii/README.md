@@ -11,7 +11,7 @@
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> s = &quot;<u>0</u>11<u>0</u>1<u>0</u>&quot;, minJump = 2, maxJump = 3
+<strong>Input:</strong> s = &quot;<u>0</u>11<u>0</u>1<u>0</u>&quot;, minJump = 2,= maxJump = 3
 <strong>Output:</strong> true
 <strong>Explanation:</strong>
 In the first step, move from index 0 to index 3. 
