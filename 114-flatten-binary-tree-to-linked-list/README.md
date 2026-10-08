@@ -6,7 +6,7 @@
 </ul>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+<p><strong class="example">Example1:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2021/01/14/flaten.jpg" style="width: 500px; height: 226px;" />
 <pre>
 <strong>Input:</strong> root = [1,2,5,3,4,null,6]
