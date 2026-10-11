@@ -18,7 +18,7 @@
 <strong>Output:</strong> 4
 </pre>
 
-<p><strong class="example">Example 2:</strong></p>
+<p><strong class="example">Example2:</strong></p>
 
 <pre>
 <strong>Input:</strong> grid = [[2,1,1],[0,1,1],[1,0,1]]
