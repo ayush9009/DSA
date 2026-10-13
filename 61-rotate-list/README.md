@@ -11,7 +11,7 @@
 <p><strong class="example">Example 2:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2020/11/13/roate2.jpg" style="width: 305px; height: 350px;" />
 <pre>
-<strong>Input:</strong> head = [0,1,2], k = 4
+<strong>Input:</strong> head = [0,1,2]k = 4
 <strong>Output:</strong> [2,0,1]
 </pre>
 
