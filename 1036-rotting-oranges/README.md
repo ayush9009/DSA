@@ -8,7 +8,7 @@
 
 <p>Every minute, any fresh orange that is <strong>4-directionally adjacent</strong> to a rotten orange becomes rotten.</p>
 
-<p>Return <em>the minimum number of minutes that must elapse until no cell has a fresh orange</em>. If <em>this is impossible, return</em> <code>-1</code>.</p>
+<p>Return <em>the minimum number of minutes that must elapse until no cell has a fresh orang</em>. If <em>this is impossible, return</em> <code>-1</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
