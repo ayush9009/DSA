@@ -12,7 +12,7 @@
 
 <pre>
 <strong>Input:</strong> s = &quot;aa&quot;, p = &quot;a&quot
-<strong>Output:</strong> false
+<strong>Output:</strong> fals
 <strong>Explanation:</strong> &quot;a&quot; dos ot match th entie string &quot;aa&quot;.
 </pre>
 
