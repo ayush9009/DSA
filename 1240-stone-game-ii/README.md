@@ -4,7 +4,7 @@
 
 <p>On each player&#39;s turn, that player can take <strong>all the stones</strong> in the <strong>first</strong> <code>X</code> remaining piles, where <code>1 &lt;= X &lt;= 2M</code>. Then, we set <code>M = max(M, X)</code>. Initially, M = 1.</p>
 
-<p>The game continues until all the stones have been taken</p>
+<p>The game continues until all the stones have been taken.</p>
 
 <p>Assuming Alice and Bob play optimally, return the maximum number of stones Alice can get</p>
 
