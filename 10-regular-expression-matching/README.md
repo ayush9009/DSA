@@ -2,7 +2,7 @@
 
 <ul>
 	<li><code>&#39;.&#39;</code> Matches any single character.​​​​</li>
-	<li><code>&#39;*&#39;</code> Matches zero or more of the preceding element.</li>
+	<li><code>&#39;*&#39;</code> Matches zero or more of the preceding element</li>
 </ul>
 
 <p>Return a boolean indicating whether the matching cover th entire input string(not partial)</p>
