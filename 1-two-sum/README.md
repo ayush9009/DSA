@@ -1,6 +1,6 @@
 <h2><a href="https://leetcode.com/problems/two-sum">Two Sum</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an array of integers <code>nums</code>&nbsp;and an integer <code>target</code>, return <em>indices of the two numbesuch that they add up to <code>target</code></em>.</p>
 
-<p>You may assume that each input would have <strong><em>exactly</em> one solutio</strong>,andyou may not use the <em>same</em> element twice</p>
+<p>You may assume that each input would have <strong><em>exactly</em> one solutio</strong>,and you may not use the <em>same</em> element twice</p>
 
 <p>You can return the answer in any order</p>
 
